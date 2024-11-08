@@ -3,3 +3,7 @@ python-telegram-bot
 pillow
 speechrecognition
 pytesseract
+python-telegram-bot
+openai
+SpeechRecognition
+Pillow
